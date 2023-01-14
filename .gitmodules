@@ -4,3 +4,6 @@
 [submodule "TheKeebrary.pretty"]
 	path = TheKeebrary.pretty
 	url = https://github.com/n0bs/TheKeebrary.pretty
+[submodule "kicad_lib_tmk"]
+	path = kicad_lib_tmk
+	url = https://github.com/tmk/kicad_lib_tmk
