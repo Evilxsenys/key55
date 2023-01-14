@@ -1,5 +1,6 @@
 (fp_lib_table
-  (lib (name "Mounting_Keyboard_Stabilizer")(type "KiCad")(uri "D:/Users/Evilxsenys/Desktop/kikad/Mounting_Keyboard_Stabilizer.pretty")(options "")(descr ""))
-  (lib (name "Switch_Keyboard_Hotswap_Kailh")(type "KiCad")(uri "D:/Users/Evilxsenys/Desktop/kikad/Switch_Keyboard_Hotswap_Kailh.pretty")(options "")(descr ""))
-  (lib (name "keebs")(type "KiCad")(uri "D:/Users/Evilxsenys/Downloads/keebs.pretty-master")(options "")(descr ""))
+  (lib (name "Mounting_Keyboard_Stabilizer")(type "KiCad")(uri "${KIPRJMOD}/keyswitch-kicad-library/library/footprints/Mounting_Keyboard_Stabilizer.pretty")(options "")(descr ""))
+  (lib (name "TheKeebrary")(type "KiCad")(uri "${KIPRJMOD}/TheKeebrary.pretty")(options "")(descr ""))
+  (lib (name "promicro")(type "KiCad")(uri "${KIPRJMOD}/ProMicroKiCad/promicro.pretty")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Hotswap_Kailh")(type "KiCad")(uri "${KIPRJMOD}/keyswitch-kicad-library/library/footprints/Switch_Keyboard_Hotswap_Kailh.pretty")(options "")(descr ""))
 )
